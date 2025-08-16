@@ -118,7 +118,7 @@ All responses are in JSON format and follow RESTful standards.
 
 ## 👨‍💼 Author
 
-Built with ❤️ by \[Your Name] as part of a technical test challenge.
+Built with ❤️ by [Hasindu Koshitha](https://github.com/hasindu-k) as part of a technical test challenge.
 
 ---
 
